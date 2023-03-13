@@ -23,7 +23,7 @@ myMoneyBox(5);
 myMoneyBox(5);
 myMoneyBox(15);
 
-const moneyBoxAnna = moneyBox;
+const moneyBoxAnna = moneyBox();
 moneyBoxAnna(10);
 moneyBoxAnna(20);
 moneyBoxAnna(5);
